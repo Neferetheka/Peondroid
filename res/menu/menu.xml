@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuAPropos"
+          android:icon="@drawable/rang"
+          android:title="A Propos" />
+          
+    <item android:id="@+id/menuQuit"
+          android:icon="@drawable/delete"
+          android:title="Quitter" />
+          
+<item android:id="@+id/menuPrecedent"
+			android:icon="@drawable/precedent"
+          android:title="Précédent"></item>
+          
+          <item android:id="@+id/menuActualiser"
+			android:icon="@drawable/actualiser"
+          android:title="Actualiser"></item>
+          
+<item android:id="@+id/menuSuivant"
+			android:icon="@drawable/suivant"
+          android:title="Suivant"></item>
+</menu>
